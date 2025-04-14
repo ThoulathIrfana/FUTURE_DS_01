@@ -22,6 +22,11 @@ This task involves analyzing trending topics on **Twitter** related to fitness, 
 - Power BI dashboard showing sentiment distribution
 - Exported dashboard in PDF format
 
+### 🧠 What I Learned
+- Extracting tweets using Twitter API
+- Performing Sentiment Analysis
+- Creating a Power BI Dashboard
+
 ## 📁 Files Included
 - `twitter_fitness_sentiment.csv` – Tweets with sentiment labels
 - `FUTURE_DS_01_Sentiment_Dashboard.pbix` – Power BI file
@@ -29,6 +34,6 @@ This task involves analyzing trending topics on **Twitter** related to fitness, 
 
 ## 🙌 Submitted by
 **Thoulath Irfana M**  
-FUTURE Data Science & Analytics Internship  
+FUTURE Interns Participant | Track: Data Science & Analytics
 Track Code: DS  
 Task Number: 01  
