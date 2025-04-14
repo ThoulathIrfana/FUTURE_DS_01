@@ -34,6 +34,6 @@ This task involves analyzing trending topics on **Twitter** related to fitness, 
 
 ## 🙌 Submitted by
 **Thoulath Irfana M**  
-Future Interns Participant | Track: Data Science & Analytics
+Future Interns Participant | Track: Data Science & Analytics   
 Track Code: DS  
 Task Number: 01  
